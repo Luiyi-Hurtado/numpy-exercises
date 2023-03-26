@@ -1,1 +1,1 @@
-# numpy-exercises
+# Numpy Exercises

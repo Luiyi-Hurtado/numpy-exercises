@@ -11,7 +11,7 @@ import numpy as np
 def main():
     """
     Determinate if the array is a inf positive
-    or negative
+    or negative using isinf() function
 
     Args:
         Nothing
